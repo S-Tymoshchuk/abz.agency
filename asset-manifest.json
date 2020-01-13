@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/trello-clone/static/css/main.b95cac37.chunk.css",
-    "main.js": "/trello-clone/static/js/main.eb42ab40.chunk.js",
-    "main.js.map": "/trello-clone/static/js/main.eb42ab40.chunk.js.map",
-    "runtime-main.js": "/trello-clone/static/js/runtime-main.468ee977.js",
-    "runtime-main.js.map": "/trello-clone/static/js/runtime-main.468ee977.js.map",
-    "static/js/2.92426ab2.chunk.js": "/trello-clone/static/js/2.92426ab2.chunk.js",
-    "static/js/2.92426ab2.chunk.js.map": "/trello-clone/static/js/2.92426ab2.chunk.js.map",
-    "index.html": "/trello-clone/index.html",
-    "precache-manifest.17c3e6dcb4913c9ebeaa7fcb54fb63a9.js": "/trello-clone/precache-manifest.17c3e6dcb4913c9ebeaa7fcb54fb63a9.js",
-    "service-worker.js": "/trello-clone/service-worker.js",
-    "static/css/main.b95cac37.chunk.css.map": "/trello-clone/static/css/main.b95cac37.chunk.css.map",
-    "static/js/2.92426ab2.chunk.js.LICENSE": "/trello-clone/static/js/2.92426ab2.chunk.js.LICENSE",
-    "static/media/index.scss": "/trello-clone/static/media/bg-1.a5e64440.jpg",
-    "static/media/user-superstar-2x.jpg": "/trello-clone/static/media/user-superstar-2x.0592ecbe.jpg"
+    "main.css": "/abz.agency/static/css/main.abadf063.chunk.css",
+    "main.js": "/abz.agency/static/js/main.eb42ab40.chunk.js",
+    "main.js.map": "/abz.agency/static/js/main.eb42ab40.chunk.js.map",
+    "runtime-main.js": "/abz.agency/static/js/runtime-main.006ee5ec.js",
+    "runtime-main.js.map": "/abz.agency/static/js/runtime-main.006ee5ec.js.map",
+    "static/js/2.92426ab2.chunk.js": "/abz.agency/static/js/2.92426ab2.chunk.js",
+    "static/js/2.92426ab2.chunk.js.map": "/abz.agency/static/js/2.92426ab2.chunk.js.map",
+    "index.html": "/abz.agency/index.html",
+    "precache-manifest.3da9e2b5a1d1c2e3ebce772df49f6b68.js": "/abz.agency/precache-manifest.3da9e2b5a1d1c2e3ebce772df49f6b68.js",
+    "service-worker.js": "/abz.agency/service-worker.js",
+    "static/css/main.abadf063.chunk.css.map": "/abz.agency/static/css/main.abadf063.chunk.css.map",
+    "static/js/2.92426ab2.chunk.js.LICENSE": "/abz.agency/static/js/2.92426ab2.chunk.js.LICENSE",
+    "static/media/index.scss": "/abz.agency/static/media/bg-1.a5e64440.jpg",
+    "static/media/user-superstar-2x.jpg": "/abz.agency/static/media/user-superstar-2x.0592ecbe.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.468ee977.js",
+    "static/js/runtime-main.006ee5ec.js",
     "static/js/2.92426ab2.chunk.js",
-    "static/css/main.b95cac37.chunk.css",
+    "static/css/main.abadf063.chunk.css",
     "static/js/main.eb42ab40.chunk.js"
   ]
 }
