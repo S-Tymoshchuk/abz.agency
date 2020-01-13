@@ -1,0 +1,77 @@
+.nav {
+  display: flex;
+
+  &__link {
+    margin-right: 30px;
+    font-family: $subFont;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+  }
+
+}
+
+.header {
+  padding: 20px 0;
+
+  &__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+
+  &__test {
+    display: flex;
+    align-items: center;
+    //flex-direction: column;
+    //justify-content: center;
+  }
+
+  &__logo {
+    height: 25px;
+    width: 135px;
+  }
+
+  &__signOut {
+    width: 25px;
+    height: 20px;
+    fill: #283593;
+  }
+
+  &__superstar {
+    display: flex;
+
+    &--email {
+      padding-right: 10px;
+      text-align: right;
+
+      &-item {
+        font-size: 12px;
+        color: #8d8c8c;
+        font-family: $subFont;
+        font-weight: 400;
+      }
+
+      &-text{
+        font-size: 14px;
+        color: #000;
+        font-family: $subFont;
+        font-weight: 400;
+      }
+
+    }
+
+    &--img {
+      padding-right: 13px;
+    }
+
+    &--photo {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+    }
+  }
+
+
+}

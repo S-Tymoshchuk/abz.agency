@@ -1,0 +1,24 @@
+@import "utils/reset";
+@import "utils/var";
+@import "components/App/App";
+@import "components/Header/header";
+@import "components/intro/intro";
+
+
+.container {
+  width: 100%;
+  max-width: $container;
+  margin: 0 auto;
+}
+
+//@import "utils/reset";
+//@import "components/header";
+//@import "components/intro";
+//@import "components/features";
+//@import "components/works";
+//@import "components/team";
+//@import "components/reviews";
+//@import "components/download";
+//@import "components/footer";
+//
+//@import "utils/mixins";
