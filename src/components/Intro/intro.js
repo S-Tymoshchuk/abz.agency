@@ -5,9 +5,9 @@ const Intro = () => {
         <div className={"intro"}>
             <div className="container">
                 <div className="intro__inner">
-                    <div className="intro__inner--title">
+                    <h1 className="intro__inner--title">
                         Test assignment for Frontend Developer position
-                    </div>
+                    </h1>
                     <div className={"intro__inner--text"}>
                         We kindly remind you that your test assignment should
                         be submitted as a link to github/bitbucket repository.

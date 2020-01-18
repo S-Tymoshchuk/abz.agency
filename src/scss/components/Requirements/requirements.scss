@@ -1,0 +1,30 @@
+.requirements {
+  background: url("../../../img/requiers.jpg") no-repeat;
+  background-size: cover;
+  height: 690px;
+  width: 100%;
+  background-position: center;
+  padding: 140px 0 105px;
+
+  &__inner {
+    display: flex;
+
+    &--item {
+      width: 50%;
+
+      &-text {
+        font-family: $subFont;
+        font-size: 16px;
+        line-height: 1.375;
+        color: #ffffff;
+        margin-bottom: 35px;
+      }
+
+      &-img {
+        margin-left: 65px;
+      }
+    }
+  }
+}
+
+

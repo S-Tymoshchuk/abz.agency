@@ -3,12 +3,16 @@
 @import "components/App/App";
 @import "components/Header/header";
 @import "components/intro/intro";
+@import "components/About_me/about_me";
+@import "components/Requirements/requirements";
+@import "components/Users/users";
 
 
 .container {
   width: 100%;
   max-width: $container;
   margin: 0 auto;
+  padding: 0 15px;
 }
 
 //@import "utils/reset";

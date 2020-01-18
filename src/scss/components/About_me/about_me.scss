@@ -1,0 +1,107 @@
+.heading__title {
+  font-family: $mainFont;
+  font-size: 42px;
+  font-weight: 600;
+  margin: 0 auto;
+  text-align: center;
+
+  &.about {
+    margin-bottom: 65px;
+  }
+
+  &.backGround {
+    color: #ffffff;
+    margin-bottom: 60px;
+  }
+
+
+  &.relations {
+    max-width: 555px;
+    margin-bottom: 60px;
+  }
+}
+
+
+.about__me {
+  padding: 140px 0 100px;
+
+  &-btn {
+    display: block;
+    font-family: $subFont;
+    font-size: 22px;
+    color: #ef6c00;
+    font-weight: 600;
+    line-height: 2.727;
+    margin-top: 20px;
+  }
+
+
+  &--inner {
+    display: flex;
+    //flex-wrap: wrap;
+    //justify-content: center;
+    &-title {
+      font-family: $mainFont;
+      font-size: 26px;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+
+    &-text {
+      font-family: $subFont;
+      font-size: 16px;
+      color: #4c4b4b;
+      font-weight: 400;
+      line-height: 1.375;
+
+      &.subtext {
+        margin-bottom: 35px;
+      }
+    }
+
+
+    &-item {
+      &-text {
+        margin-bottom: 160px;
+      }
+    }
+  }
+
+  &--skills {
+    display: flex;
+    flex-wrap: wrap;
+
+    &-item {
+      width: 28.888888%;
+      margin-bottom: 40px;
+
+      &.first {
+        margin-right: 45px;
+      }
+
+      &.second {
+        margin-right: 80px;
+      }
+
+      &_title {
+        font-family: $mainFont;
+        font-size: 26px;
+        font-weight: 600;
+        margin-bottom: 25px;
+      }
+
+      &_img {
+        margin-bottom: 25px;
+      }
+
+      &_text {
+        font-family: $subFont;
+        font-size: 16px;
+        color: #4c4b4b;
+        line-height: 1.3;
+      }
+
+
+    }
+  }
+}
