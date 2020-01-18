@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/abz.agency/static/css/main.6fed4d68.chunk.css",
-    "main.js": "/abz.agency/static/js/main.df4530c0.chunk.js",
-    "main.js.map": "/abz.agency/static/js/main.df4530c0.chunk.js.map",
+    "main.js": "/abz.agency/static/js/main.24851a38.chunk.js",
+    "main.js.map": "/abz.agency/static/js/main.24851a38.chunk.js.map",
     "runtime-main.js": "/abz.agency/static/js/runtime-main.006ee5ec.js",
     "runtime-main.js.map": "/abz.agency/static/js/runtime-main.006ee5ec.js.map",
     "static/js/2.266e209d.chunk.js": "/abz.agency/static/js/2.266e209d.chunk.js",
     "static/js/2.266e209d.chunk.js.map": "/abz.agency/static/js/2.266e209d.chunk.js.map",
     "index.html": "/abz.agency/index.html",
-    "precache-manifest.09f31666667a4e9babe34092e4a5da18.js": "/abz.agency/precache-manifest.09f31666667a4e9babe34092e4a5da18.js",
+    "precache-manifest.998b752ff7787427e789af9a0473f358.js": "/abz.agency/precache-manifest.998b752ff7787427e789af9a0473f358.js",
     "service-worker.js": "/abz.agency/service-worker.js",
     "static/css/main.6fed4d68.chunk.css.map": "/abz.agency/static/css/main.6fed4d68.chunk.css.map",
     "static/js/2.266e209d.chunk.js.LICENSE": "/abz.agency/static/js/2.266e209d.chunk.js.LICENSE",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.006ee5ec.js",
     "static/js/2.266e209d.chunk.js",
     "static/css/main.6fed4d68.chunk.css",
-    "static/js/main.df4530c0.chunk.js"
+    "static/js/main.24851a38.chunk.js"
   ]
 }
