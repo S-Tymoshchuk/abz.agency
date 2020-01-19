@@ -17,12 +17,12 @@ const Register = () => {
                                 <input type="text" name={"name"} id={"name"} placeholder={"Your name"}/>
                             </div>
                             <div className="register__inner--item">
-                                <label htmlFor="name">email</label>
-                                <input type="text" name={"name"} id={"name"} placeholder={"Your email"}/>
+                                <label htmlFor="email">email</label>
+                                <input type="text" name={"email"} id={"email"} placeholder={"Your email"}/>
                             </div>
                             <div className="register__inner--item">
-                                <label htmlFor="name">Phone</label>
-                                <input type="tel" name={"name"} id={"name"} placeholder={"+38(__) ___ __ __"}
+                                <label htmlFor="phone">Phone</label>
+                                <input type="tel" name={"phone"} id={"phone"} placeholder={"+38(__) ___ __ __"}
                                        pattern={"^[\+]{0,1}380([0-9]{9})$"}/>
                             </div>
                         </div>
@@ -30,10 +30,10 @@ const Register = () => {
                             <select className={"two__block--select"} name="position" id="">
                                 <option value="">Select your position</option>
                             </select>
-                            <div className={"test"}>
+                            <div className={"two__block--input"}>
                                 <input type="text" placeholder={"Upload your photo"}/>
                                 <a href={"#"} className={"two__block--btn"}>Upload</a>
-                                <p className={"test2"}>File format jpg up to 5 MB, the minimum size of 70x70px</p>
+                                <p className={"two__block--text"}>File format jpg up to 5 MB, the minimum size of 70x70px</p>
                             </div>
                         </div>
                         <a className={"btn btn__register"} href="#">Sign Up</a>
